@@ -11,6 +11,7 @@ arr[i]=sc.nextInt();
 //Brute Force Solution
 //TC:O(4N)
 //SC:O(2N)
+//MS
 // int i1=0;int j1=0;
 // ArrayList<Integer> ansp=new ArrayList<>();
 // ArrayList<Integer> ansn=new ArrayList<>();
@@ -43,6 +44,7 @@ arr[i]=sc.nextInt();
 //Optimal Solution
 //TC:O(2N)
 //SC:O(N)
+//Striver Solution
 int pos=0;
 int neg=1;
 int ans[]=new int[n];
