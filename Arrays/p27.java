@@ -108,7 +108,9 @@ class p27{
 //     System.out.println();
 // }
 
-//Optimal Solution
+//Optimal Solution 
+//TC:O((M*N)+(N*M)+M+N+(M*N))
+//SC:O(1)
 int min=1;
 for(int i=0;i<m;i++){
     min=1;
